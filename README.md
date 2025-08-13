@@ -42,7 +42,7 @@ Phase 3 - Launch (2026 Q3):
 Our primary goal is to launch the DeScAi platform by Q3 2026 & Integrate reviews with existing DeSci protocols. 
 
 
-Success will be measured by:
+Success will be measured as achieving:
   - Review costs under $2 
   - Review Generation in under 3 minutes
   - High throughput without loss of accuracy or functionality 
